@@ -1,6 +1,6 @@
 # Suffix-Trees
 Implementation of suffix trees for a given input file.
-Languages used: C++,python
+Languages used: C++,python.
 Input File:AesopTales.txt
 
 Run the python file cleanFile.py to clean AesopTales.txt. 
